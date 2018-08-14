@@ -1,0 +1,13 @@
+The phase 5 contains GUI for various reports.
+MySQL, JDBC and JSP has been used to connect to the database and build GUI.
+
+Functionalities like, 
+1. listing the content of the table.
+2. Adding table with new row
+3. Deleting the entire row
+4. Editing or Updating the row with new values
+5. Purchasing a book and displaying the bill
+6. Generating Sale report for each month by taking bookstore name as input
+7. Generating customer countof each bookstore.
+
+ 
